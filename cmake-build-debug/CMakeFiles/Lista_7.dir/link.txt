@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/Lista_7.dir/main.c.o CMakeFiles/Lista_7.dir/com112_arvoreAVL.c.o  -o Lista_7 

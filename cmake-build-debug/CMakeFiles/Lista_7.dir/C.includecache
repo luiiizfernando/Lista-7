@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/fernando/Documentos/Lista 7/com112_arvoreAVL.h
+
+/home/fernando/Documentos/Lista 7/main.c
+stdio.h
+-
+stdlib.h
+-
+com112_arvoreAVL.h
+/home/fernando/Documentos/Lista 7/com112_arvoreAVL.h
+
